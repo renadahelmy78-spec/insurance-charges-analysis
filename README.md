@@ -78,10 +78,8 @@ The notebook was built in Google Colab and reads the data from Google Drive. To 
 2. Update the path in the cell that calls `pd.read_csv(...)` to match the file location.
 3. Run all cells.
 
-<!-- Add dashboard screenshots to an images/ folder and uncomment:
 ## Dashboard
-![Dashboard](images/dashboard.png)
--->
+![Dashboard](Dashboard.png)
 
 ## Author
 
